@@ -1,12 +1,6 @@
-// @ts-check
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* Other config options here */
-  output: 'export',
-  images: {
-    unoptimized: true,
-  }
-};
+  ReacStricMode: true,
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig

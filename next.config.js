@@ -1,8 +1,6 @@
-// @ts-check
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* Other config options here */
-};
+  ReacStricMode: true,
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig

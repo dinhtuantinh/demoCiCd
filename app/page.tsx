@@ -3,5 +3,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <h1>Demo CI/CD Dinh Tuan Tinh</h1>;
+  return <h1> CI/CD Dinh Tuan Tinh</h1>;
 }
